@@ -1,0 +1,215 @@
+C:/Questasim_projects/project1/pe_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/pe_tb.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package pe_tb_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module pe_tb
+-- Compiling module DG4
+
+Top level modules:
+	pe_tb
+
+} {} {}} C:/Questasim_projects/project1/function_unit_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/function_unit_tb.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package function_unit_tb_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module data_generator2
+-- Compiling module data_bucket
+-- Compiling module function_unit
+-- Compiling module function_unit_tb
+
+Top level modules:
+	function_unit_tb
+
+} {} {}} C:/Questasim_projects/project1/switch.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/switch.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package switch_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module switch
+
+Top level modules:
+	switch
+
+} {} {}} C:/Questasim_projects/project1/se.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/se.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package se_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module se
+
+Top level modules:
+	se
+
+} {} {}} C:/Questasim_projects/project1/pac_pe.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/pac_pe.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package pac_pe_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module pac_pe
+
+Top level modules:
+	pac_pe
+
+} {} {}} C:/Questasim_projects/project1/Project_Files_for_Students/sample_memory_wrapper.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/Project_Files_for_Students/sample_memory_wrapper.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package sample_memory_wrapper_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module sample_memory_wrapper
+
+Top level modules:
+	sample_memory_wrapper
+
+} {} {}} C:/Questasim_projects/project1/depac_sum.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/depac_sum.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package depac_sum_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module depac_sum
+
+Top level modules:
+	depac_sum
+
+} {} {}} C:/Questasim_projects/project1/test_switch.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/test_switch.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package test_switch_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module test_switch
+
+Top level modules:
+	test_switch
+
+} {} {}} C:/Questasim_projects/project1/depac_pe.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/depac_pe.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package depac_pe_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module depac_pe
+
+Top level modules:
+	depac_pe
+
+} {} {}} C:/Questasim_projects/project1/SystemVerilogCSP.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/SystemVerilogCSP.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package SystemVerilogCSP
+-- Compiling interface Channel
+-- Compiling package SystemVerilogCSP_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling interface Channel
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Questasim_projects/project1/memory_total.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/memory_total.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package memory_total_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module memory_total
+-- Compiling module NOC_tree_total
+
+Top level modules:
+	memory_total
+
+} {} {}} C:/Questasim_projects/project1/sum_unit.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/sum_unit.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package sum_unit_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module sum_unit
+
+Top level modules:
+	sum_unit
+
+} {} {}} C:/Questasim_projects/project1/NOC_tree_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/NOC_tree_tb.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package NOC_tree_tb_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module NOC_tree_tb
+-- Compiling module DG2
+-- Compiling module DG1
+-- Compiling module DG3
+
+Top level modules:
+	NOC_tree_tb
+	DG2
+	DG1
+
+} {} {}} C:/Questasim_projects/project1/processing_unit.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/processing_unit.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package processing_unit_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module processing_unit
+
+Top level modules:
+	processing_unit
+
+} {} {}} C:/Questasim_projects/project1/arbi_merge.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/arbi_merge.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package arbi_merge_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module arbi_merge
+
+Top level modules:
+	arbi_merge
+
+} {} {}} C:/Questasim_projects/project1/router_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/router_tb.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package router_tb_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module router
+-- Compiling module DGG
+-- Compiling module data_bucket1
+-- Compiling module router_tb
+
+Top level modules:
+	router_tb
+
+} {} {}} C:/Questasim_projects/project1/Project_Files_for_Students/memory_tester.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/Project_Files_for_Students/memory_tester.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package memory_tester_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module memory_tester
+
+Top level modules:
+	memory_tester
+
+} {} {}} C:/Questasim_projects/project1/test_ABM.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/test_ABM.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package test_ABM_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module DG
+-- Compiling module test_ABM
+
+Top level modules:
+	test_ABM
+
+} {} {}} C:/Questasim_projects/project1/NOC_tree.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/NOC_tree.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package NOC_tree_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module NOC_tree
+
+Top level modules:
+	NOC_tree
+
+} {} {}} C:/Questasim_projects/project1/pac_sum.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/pac_sum.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package pac_sum_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module pac_sum
+
+Top level modules:
+	pac_sum
+
+} {} {}} C:/Questasim_projects/project1/Project_Files_for_Students/memory.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/Project_Files_for_Students/memory.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package memory_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Questasim_projects/project1/router.sv {1 {vlog -work work -vopt -sv -stats=none C:/Questasim_projects/project1/router.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package router_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module router
+
+Top level modules:
+	router
+
+} {} {}}
